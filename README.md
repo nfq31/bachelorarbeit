@@ -1,5 +1,8 @@
 In diesem Ordner befinden sich alle zusätzlichen Inhalte zu meiner Bachelorarbeit "Numerische Simulation von Wetterderivaten".
 
+Im Ordner "Beispiel" befindet sich die Datei "hdd_januar.m" diese berechnet die HDD Werte in Ulm im Januar von 1992-2022 und wurde für das Beispiel in
+Kapitel 2 verwendet.
+
 Im Ordner "Plot Durchschnittstemperatur" befinden sich zwei Dateien, um die Durchschnittstemperatur zu plotten. Einmal 
 für 2 Jahre (zwei_jahre_plot.m) und für 30 Jahre (dreissig_jahre_plot.m). Der Matlab Code "histogramm_temp.m" plottet ein Histogramm der täglichen Temperaturveränderungen in Ulm.
 
